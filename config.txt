@@ -1,0 +1,6 @@
+owner=541392230661881896
+prefix=$
+game=56HD
+stayinchannel=true
+songinstatus=false
+token=NjI4MjY0ODI1Mzc3NjUyNzYx.XZIrpw.apisKm6B4kvLwgF6WOW8z4moB2E
